@@ -1,2 +1,0 @@
-# Tareas
-Alumno: Reynaldo Martinez

@@ -10,7 +10,7 @@ def rot_x(x, y, z, theta):
         theta (float): ángulo en radianes
 
     Returns:
-        np.array: vector rotado
+        np.array: vector girado
     '''
     R = np.array([
         [1, 0, 0],
